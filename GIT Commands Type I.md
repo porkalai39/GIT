@@ -33,9 +33,9 @@ git commit -m "message"
 ```
 git push origin main
 ```
-#The changes in made in GitHub are pulled to the git terminal using push
+#The changes in made in GitHub are pulled to the git terminal using pull
 ```
-git push
+git pull
 ```
 
 

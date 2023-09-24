@@ -1,4 +1,4 @@
-# GIT Commands Type I
+# GIT Commands Type I (with Cloning)
 
 # Git Config
 ```

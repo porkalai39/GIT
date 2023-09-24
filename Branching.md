@@ -23,7 +23,7 @@ git add filename
 (or)
 git add .
 ```
-#Commit the changes to remote directory
+#Commit the changes to the remote directory
 ```
 git commit -m "message"
 ```

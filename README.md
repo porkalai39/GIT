@@ -1,11 +1,13 @@
-# GIT Commands Type I (With Cloning)
+# GIT Commands 
 
-# GIT Commands Type II (Without Cloning)
+#GIT Commands Type I (With Cloning)
 
-# GIT Branching
+#GIT Commands Type II (Without Cloning)
 
-# GIT Merging
+#GIT Branching
 
-# GIT Pull requests
+#GIT Merging
 
-# GIT Conflicts
+#GIT Pull requests
+
+#GIT Conflicts

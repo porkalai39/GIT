@@ -14,4 +14,28 @@ git clone "repo_url"
 ```
 cd repo_name
 ```
+# Git Status
+#View the Git status
+```
+git status
+```
+#Add the untracked files to the staging area
+```
+git add filename
+(or)
+git add .
+```
+#Commit the changes to remote directory
+```
+git commit -m "message"
+```
+#Push the Code to the git folder(main branch)
+```
+git push origin main
+```
+#The changes in made in GitHub are pulled to the git terminal using push
+```
+git push
+```
+
 

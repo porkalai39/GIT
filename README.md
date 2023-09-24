@@ -1,7 +1,7 @@
-# GIT
+# GIT Commands
 
+#Git Config
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+git config --global user.name "name"
+git config --global user.email "email"
 ```

@@ -1,4 +1,4 @@
-# GIT Commands Type II
+# GIT Commands Type II (Without Cloning)
 
 # Initialize the Git 
 ```

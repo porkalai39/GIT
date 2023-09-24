@@ -1,4 +1,4 @@
-# GIT Commands
+# GIT Commands Type I
 
 # Git Config
 ```

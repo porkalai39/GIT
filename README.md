@@ -8,6 +8,4 @@
 
 #GIT Merging
 
-#GIT Pull requests
 
-#GIT Conflicts

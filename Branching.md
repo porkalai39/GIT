@@ -12,6 +12,25 @@ git branch -a
 ```
 git checkout new_branch
 ```
+# Git Status
+#View the Git status
+```
+git status
+```
+#Add the untracked files to the staging area
+```
+git add filename
+(or)
+git add .
+```
+#Commit the changes to remote directory
+```
+git commit -m "message"
+```
+#Push the Code to the git folder(new branch)
+```
+git push origin new_branch
+```
 
 
 

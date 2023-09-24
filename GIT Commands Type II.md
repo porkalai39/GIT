@@ -23,6 +23,20 @@ git commit -m "message"
 ```
 git branch
 ```
+# Pushing without cloning
+#Change branch from master to main
+```
+git branch -M main
+```
+#Create repo in github and add remote origin
+```
+git remote add origin repo_url
+```
+#Push the Code to the git folder(main branch)
+```
+git push origin main
+```
+
 
 
 
